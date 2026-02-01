@@ -4,7 +4,7 @@ import traci
 
 # Configuration
 SUMO_CONFIG = "osm.sumocfg"
-CLEARING_DIST = 20  # Distance ahead to clear traffic
+CLEARING_DIST = 30  # Distance ahead to clear traffic
 
 
 def get_green_phase(tls_id, incoming_link_index):
