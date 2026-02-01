@@ -4,7 +4,7 @@ import os
 
 # Configuration
 NET_FILE = "osm.net.xml.gz"
-VEHS_PER_HOUR_PER_ROAD = 200
+VEHS_PER_HOUR_PER_ROAD = 100
 
 
 def get_valid_edges():
