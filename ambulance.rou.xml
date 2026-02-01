@@ -1,0 +1,4 @@
+<routes>
+    <vType id="ambulance" vClass="emergency" speedFactor="1.5" color="red" guiShape="emergency"/>
+    <trip id="AMBULANCE" type="ambulance" depart="15" from="-37040845#3" to="-37040837#0" />
+</routes>
